@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haohanvn1
-- 👀 I’m interested in c
-- 🌱 I’m currently learning c
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning c++
 
 
 <!---
